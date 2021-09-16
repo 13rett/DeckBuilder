@@ -1,0 +1,226 @@
+{
+"DeckControl": {"DeckName":"Deck", "Width":2.25, "Height": 3.5, "Scaler":300, "Savefolder":""},
+"Suits": [
+    {"SuitID":"Hearts","SuitColor1":"#FF0000","SuitColor2":"#810000","SuitColor3":"#000000","SuitCopies":1},
+    {"SuitID":"Diamonds","SuitColor1":"#FF0000","SuitColor2":"#810000","SuitColor3":"#000000","SuitCopies":1},
+    {"SuitID":"Clubs","SuitColor1":"#000000","SuitColor2":"#818181","SuitColor3":"#FF0000","SuitCopies":1},
+    {"SuitID":"Spades","SuitColor1":"#000000","SuitColor2":"#818181","SuitColor3":"#FF0000","SuitCopies":1}
+],
+"SuitCards": [
+    {"CardID":"1", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":83.3, "Top":20, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0,"ProportionLock":"s"},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"2", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":20, "Bottom":40, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":60, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"3", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":20, "Bottom":40, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":40, "Bottom":60, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":60, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"4", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":20, "Bottom":40, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":60, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":20, "Bottom":40, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":60, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"5", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":30, "Bottom":50, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":50, "Bottom":70, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":40, "Bottom":60, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":30, "Bottom":50, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":50, "Bottom":70, "ColorOverride":"Suit1", "Rotation":0},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"6", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":30, "Bottom":50, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":50, "Bottom":70, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":20, "Bottom":40, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":60, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":30, "Bottom":50, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":50, "Bottom":70, "ColorOverride":"Suit1", "Rotation":0},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"7", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":10, "Bottom":30, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":70, "Bottom":90, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":20, "Bottom":40, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":40, "Bottom":60, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":60, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":10, "Bottom":30, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":70, "Bottom":90, "ColorOverride":"Suit1", "Rotation":0},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"8", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":20, "Bottom":40, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":60, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top": 10, "Bottom":30, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top": 30, "Bottom":50, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top": 50, "Bottom":70, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top": 70, "Bottom":90, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":20, "Bottom":40, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":60, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"9", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":10, "Bottom":30, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":30, "Bottom":50, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":50, "Bottom":70, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":70, "Bottom":90, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":40, "Bottom":60, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":10, "Bottom":30, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":30, "Bottom":50, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":50, "Bottom":70, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":70, "Bottom":90, "ColorOverride":"Suit1", "Rotation":0},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"10", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Txt", "Value":"10", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"Txt", "Value":"10", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":10, "Bottom":30, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":30, "Bottom":50, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":50, "Bottom":70, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":16.6, "Right":50, "Top":70, "Bottom":90, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":20, "Bottom":40, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":33.3, "Right":66.6, "Top":60, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":10, "Bottom":30, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":30, "Bottom":50, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":50, "Bottom":70, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"Suit", "Left":50, "Right":83.3, "Top":70, "Bottom":90, "ColorOverride":"Suit1", "Rotation":0},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"Jack", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":83.3, "Top":20, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0,"ProportionLock":"s"},
+        {"Type":"ID", "Left":16.6, "Right":83.3, "Top":10, "Bottom":90, "ColorOverride":"Suit2", "Rotation":0,"ProportionLock":"s"},
+        {"Type":"Unique", "Value":"Jack.png", "Left":16.6, "Right":83.3, "Top":10, "Bottom":90, "ColorOverride":"Suit1", "Rotation":0, "Skip":"True"},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"Queen", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":83.3, "Top":20, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0,"ProportionLock":"s"},
+        {"Type":"ID", "Left":16.6, "Right":83.3, "Top":10, "Bottom":90, "ColorOverride":"Suit2", "Rotation":0,"ProportionLock":"s"},
+        {"Type":"Unique", "Value":"Queen.png", "Left":16.6, "Right":83.3, "Top":10, "Bottom":90, "ColorOverride":"Suit1", "Rotation":0, "Skip":"True"},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1},
+    {"CardID":"King", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Suit", "Left":4, "Right":11, "Top":4, "Bottom":11, "ColorOverride":"Suit1", "Rotation":0},
+        {"Type":"ID", "Left":4, "Right":11, "Top":12, "Bottom":19, "ColorOverride":"Suit2", "Rotation":0},
+        {"Type":"Suit", "Left":89, "Right":96, "Top":89, "Bottom":96, "ColorOverride":"Suit1", "Rotation":180},
+        {"Type":"ID", "Left":89, "Right":96, "Top":81, "Bottom":88, "ColorOverride":"Suit2", "Rotation":180},
+
+        {"Type":"Suit", "Left":16.6, "Right":83.3, "Top":20, "Bottom":80, "ColorOverride":"Suit1", "Rotation":0,"ProportionLock":"s"},
+        {"Type":"ID", "Left":16.6, "Right":83.3, "Top":10, "Bottom":90, "ColorOverride":"Suit2", "Rotation":0,"ProportionLock":"s"},
+        {"Type":"Unique", "Value":"King.png", "Left":16.6, "Right":83.3, "Top":10, "Bottom":90, "ColorOverride":"Suit1", "Rotation":0, "Skip":"True"},
+
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"Suit2", "Left":0, "Right":100, "Top":0, "Bottom":100}
+        ], "CopyNumber":1}
+],
+"UniqueCards": [
+    {"CardID":"Blank", "IconList": 
+        [
+        {"Type":"Unique", "Value":"/Imgs/Unique/Background_3.png", "ColorOverride":"#000000", "Left":0, "Right":100, "Top":0, "Bottom":100},
+        {"Type":"Unique", "Value":"/Imgs/Unique/Watermark_1.png", "ColorOverride":"#000000", "Left":0, "Right":100, "Top":0, "Bottom":100, "Skip":"True"}
+        ], "CopyNumber":1, "Skip":"True"}
+
+]
+}
